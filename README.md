@@ -17,7 +17,13 @@ Hello ! I am Divij . I live in India . 13 year old shit head. Sucks at maths . I
   * [Twitch](https://www.twitch.tv/totallynotdivij)
   * Minecraft Gametags
      * THErealDIVIJ - Main
-
+   * Games that i play
+     * Minecraft Bedrock 
+       * THErealDIVIJ - Main
+     * Minecraft Java {Cracked}
+     * [Osu!](https://osu.ppy.sh/users/28980342)
+     * Call of Duty mobile
+         * My id - 6808560664195039233
 # Stats 
 ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/NUuBstr?label=Reddit%20Karma&style=for-the-badge)
 -
@@ -33,7 +39,7 @@ Hello ! I am Divij . I live in India . 13 year old shit head. Sucks at maths . I
 * MCBE Parkour Essentials {WIP}
 * [MCBE Command only Anticheat Reference](https://github.com/QUATERS11/MCBE-cmd-only-anticheat)
 # Other
-If you are interested in helping me / contributing in my work , dm me on discord ``THErealDIVIJ#5638`` and reach me there . 
+If you are interested in helping me / contributing in my work , dm me on discord ``!    𝙳 𝙸 𝚅 𝙸 𝙹 シ#7208`` and reach me there . 
 
 
 
