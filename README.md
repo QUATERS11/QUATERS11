@@ -1,7 +1,7 @@
 **THErealDIVIJ's profile** 
 
 # About me 
-Hello ! I am Divij . I live in India . 13 year old shit head. Sucks at maths . I occasionally make minecraft bedrock addons and texturepacks . Could help in Minecraft stuff (mainly bedrock , but java too). 
+Hello ! I am Divij . I live in India . 13 year old shit head. Sucks at maths . I mainly make minecraft bedrock addons and texturepacks . Could help in Minecraft stuff (mainly bedrock , but java too). 
 
 
 ### Socials 
