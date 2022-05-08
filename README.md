@@ -40,6 +40,7 @@ Hello ! I am Divij . I live in India . 13 year old shit head. Sucks at maths . I
    * MCBE Parkour Essentials {WIP}
    * [MCBE Command only Anticheat Reference](https://github.com/QUATERS11/MCBE-cmd-only-anticheat)
    * MCBE What You Touching ? (Addon) {WIP}
+   * [MCBE Addon / Commands reference (Open Source)](https://github.com/QUATERS11/MCBE-addon-reference-guide-open-source)
 
 * Texture packs
    * [Dark Gold Wool pack](https://www.mediafire.com/file/jditdxfj3ucfb3m/dark-gold-wool-v1.mcpack/file)
@@ -49,7 +50,7 @@ Hello ! I am Divij . I live in India . 13 year old shit head. Sucks at maths . I
   * Contributions
     * [Shallow Anticheat](https://github.com/ShallowVermin33/ShallowAC)
 # Other
-If you are interested in helping me / contributing in my work , dm me on discord ``!    𝙳 𝙸 𝚅 𝙸 𝙹 シ#7208`` and reach me there . 
+If you are interested in helping me / contributing in my work , dm me on discord ``!   D I V I J#7208`` and reach me there . 
 
 
 
