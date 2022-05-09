@@ -1,8 +1,8 @@
+   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=QUATERS11&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/QUATERS11)
 **THErealDIVIJ's profile** 
 
 # About me 
-Hello ! I am Divij . I live in India . 13 year old shit head. Sucks at maths . I mainly make minecraft bedrock addons and texturepacks . Could help in Minecraft stuff (mainly bedrock , but java too). 
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Koulen&size=40&duration=7800&color=A5F794&width=600&height=200&lines=Hi+!+Myself+Divij+.+;I+make+Minecraft+Bedrock+Addons+and+Texture+Packs;Experienced+in+Discord+and+Minecraft+server+Moderation)](https://git.io/typing-svg)
 
 ### Socials 
 
@@ -31,6 +31,10 @@ Hello ! I am Divij . I live in India . 13 year old shit head. Sucks at maths . I
 -
 
 ![Discord](https://img.shields.io/discord/945225692776398880?label=My%20server%20&style=for-the-badge)
+-
+![Divij's github activity graph](https://activity-graph.herokuapp.com/graph?username=QUATERS11&theme=github)
+-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QUATERS11&langs_count=8&theme=dark&layout=compact)
 -
 
 # Works
