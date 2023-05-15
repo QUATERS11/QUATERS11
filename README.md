@@ -55,7 +55,7 @@
   * Contributions
     * [Shallow Anticheat](https://github.com/ShallowVermin33/ShallowAC)
 # Other
-If you are interested in helping me / contributing in my work , dm me on discord ``!   D I V I J#7208`` and reach me there . 
+If you are interested in helping me / contributing in my work , dm me on discord ``divij#6988`` and reach me there . 
 
 
 
